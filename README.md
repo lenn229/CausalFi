@@ -1,11 +1,20 @@
 # CausalFi
-Code for the system CausalFi
+Code for the system CausalFi.
 
 ---
 
-### 🚀 Run the Full Pipeline
+### 🚀 Run the Processing Pipeline
 
-To execute the entire experiment pipeline, simply run:
+To run the full extraction process for invariant DFS features, simply execute the following command in MATLAB:
+
+```bash
+Extract_invariant_DFS.m
+
+---
+
+### 🚀 Run the Sampling and Mix Pipeline
+
+To execute the experiment pipeline, simply run:
 
 ```bash
 python simple_try.py
