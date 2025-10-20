@@ -3,12 +3,12 @@ Code for the system CausalFi.
 
 ---
 
-### 🚀 Run the Processing Pipeline
+### 🚀 Run the Processing Pipeline (MATLAB)
 
-To run the full extraction process for invariant DFS features, simply execute the following command in MATLAB:
+To run the full extraction process for invariant DFS features, execute in MATLAB:
 
-```bash
-Extract_invariant_DFS.m
+```matlab
+Extract_invariant_DFS
 
 ---
 
