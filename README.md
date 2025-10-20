@@ -9,6 +9,7 @@ To run the full extraction process for invariant DFS features, execute in MATLAB
 
 ```matlab
 Extract_invariant_DFS
+```
 
 ---
 
@@ -18,3 +19,4 @@ To execute the experiment pipeline, simply run:
 
 ```bash
 python simple_try.py
+```
