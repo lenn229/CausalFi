@@ -20,3 +20,9 @@ To execute the experiment pipeline, simply run:
 ```bash
 python simple_try.py
 ```
+
+### 📦 Files
+
+The main project files are packaged in **`CausalFi_release.zip`**,  
+and additional example data are provided in **`example_data_more.zip`**.  
+When using the additional example data, please copy its contents into the **`example_data/`** folder.
